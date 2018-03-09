@@ -19,9 +19,9 @@
 		initialSize="5" 
 		validationQuery="SELECT 1"
 		username="xiaoning"
-		password="Ross"
+		password="xiaoz"
 		driverClassName="com.mysql.jdbc.Driver"
-		url="jdbc:mysql://101.132.189.142:3306/pms?useSSL=true"
+		url="jdbc:mysql://111.231.138.170:3306/webbook?useSSL=true"
 		
 	/>
 	<!--  url="jdbc:mysql://192.168.24.81:3306/pms?useSSL=true"-->

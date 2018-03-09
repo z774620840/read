@@ -8,7 +8,7 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.annotation.WebFilter;
-//好了依赖好了，接下来你就直接敲代码就行了@Ross@2018年1月9日21:58:02
+//依赖好了
 /**
  * Servlet Filter implementation class EncodingFilter
  */
